@@ -1,6 +1,6 @@
 .odd{
     background-color: rgb(255, 167,167);
-    font-family: Verdana , sans-serif, "Dejavu Sans"
+    font-family: Verdana , "DejaVu Sans", sans-serif 
 } 
 
 .third{
@@ -8,7 +8,7 @@
 }
 
 #second{
-    color: blue;
+    color: #0000ff;
     font-size: 36px;
 }
 
